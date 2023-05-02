@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">c346_L02_session2_section1</string>
+    <string name="txtName">Name:</string>
+    <string name="txtPassword">Password:</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnCancel">CANCEL</string>
+</resources>
